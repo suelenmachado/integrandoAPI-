@@ -1,0 +1,1 @@
+Integrei uma api que ao digitar o CEP automaticamente já preenche no meu formulario os dados de endereço, bairro, cidade e estado. Nela também é possivel detectar erro de preenchimento do CEP e se o CEP é valido tudo isso puramente com javascript. 
